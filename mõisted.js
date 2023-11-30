@@ -1,0 +1,1 @@
+//Funktsioon on koodiblokk mis täidab kindlat ülesannet.
